@@ -67,20 +67,20 @@ MIT License - Feel free to use and modify as needed.
 2. Paste the script into your browser console while on HF chat
 3. Use commands as needed
 
-Example sports output:
-🏆 NFL Games:
-📰 Latest: [Recent League News] (2h ago)
-🔗 [News Link]
-⚔️ Team1 @ Team2
-🔴 LIVE (Q4 2:30): Team1 24 - Team2 21
-⚔️ Team3 @ Team4
-⏰ Starts in 2h 30m
-Team3:
-FD: +150 (+3.5: -110)
-DK: +155 (+3.5: -108)
-Team4:
-FD: -170 (-3.5: -110)
-DK: -175 (-3.5: -112)
+- Example sports output:
+- 🏆 NFL Games:
+- 📰 Latest: [Recent League News] (2h ago)
+- 🔗 [News Link]
+- ⚔️ Team1 @ Team2
+- 🔴 LIVE (Q4 2:30): Team1 24 - Team2 21
+- ⚔️ Team3 @ Team4
+- ⏰ Starts in 2h 30m
+- Team3:
+- FD: +150 (+3.5: -110)
+- DK: +155 (+3.5: -108)
+- Team4:
+- FD: -170 (-3.5: -110)
+- DK: -175 (-3.5: -112)
 
 ## To-Do
 
