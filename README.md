@@ -16,10 +16,10 @@ A JavaScript-based chat bot for HackForums socket chat that provides AI response
 
 ## Commands
 
-🤖 /ai [prompt] - Ask the AI for information/assistance
-🎥 /yt [search term] - Search YouTube for videos
-🏀 /sports [league] - Get live scores, upcoming games, and odds
-ℹ️ /commands - List all available commands
+- 🤖 /ai [prompt] - Ask the AI for information/assistance
+- 🎥 /yt [search term] - Search YouTube for videos
+- 🏀 /sports [league] - Get live scores, upcoming games, and odds
+- ℹ️ /commands - List all available commands
 
 ## API Keys Required
 
